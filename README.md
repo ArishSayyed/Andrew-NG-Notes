@@ -6,6 +6,10 @@
 
 **<Span style="color:red;">Deep learning Specialization Notes in One pdf :</span>**  [**Reading**](https://github.com/ashishpatel26/Andrew-NG-Notes/blob/master/Deep%20learning%20by%20AndrewNG%20Tutorial%20%20Notes.pdf)
 
+More Andrew NG notes : 
+https://www.kaggle.com/getting-started/102365
+https://www.holehouse.org/mlclass/
+
 | **Sr No** | **Article Reading**                                          |
 | --------- | :----------------------------------------------------------- |
 | **1.**    | **[Neural Network Deep Learning](https://github.com/ashishpatel26/Andrew-NG-Notes/blob/master/andrewng-p-1-neural-network-deep-learning.md)** |
